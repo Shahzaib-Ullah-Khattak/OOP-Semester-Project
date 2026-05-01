@@ -59,7 +59,7 @@ Traditional exam systems are manual, time-consuming, and prone to errors. This s
 **Inheritance** - Base User class with Teacher/Student specialization  
 **Polymorphism** - Method overriding for different user roles  
 **Abstraction** - Question class abstracts question data structure  
-**Collections** - Arrays and ArrayLists for dynamic data management  
+**Collections** -Arrays 
 **Exception Handling** - Comprehensive try-catch with user feedback  
 **Database Operations** - JDBC with PreparedStatements for SQL injection prevention  
 **File I/O** - Bulk question import from text
