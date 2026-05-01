@@ -1,6 +1,6 @@
 # Interactive Exam Portal System
 
-## 📋 Group Members
+##  Group Members
 
 | Name | Student ID | Section |
 |------|-----------|---------|
@@ -9,7 +9,7 @@
 
 ---
 
-## 🎯 Project Description
+##  Project Description
 
 The **Interactive Exam Portal System** is a comprehensive Java-based application that enables educational institutions to conduct online examinations efficiently. This system provides separate portals for teachers and students, where teachers can create and manage quizzes with a question bank, while students can attempt quizzes and receive instant feedback on their performance.
 
@@ -22,7 +22,7 @@ Traditional exam systems are manual, time-consuming, and prone to errors. This s
 
 ---
 
-## 🏗️ Core Modules & Architecture
+##  Core Modules & Architecture
 
 ### **1. Database Layer**
 - MySQL database management with JDBC connectivity
@@ -53,7 +53,7 @@ Traditional exam systems are manual, time-consuming, and prone to errors. This s
 
 ---
 
-## 🔑 OOP Features Implemented
+##  OOP Features Implemented
 
 ✅ **Encapsulation** - Private fields with controlled access via getters/setters  
 ✅ **Inheritance** - Base User class with Teacher/Student specialization  
@@ -66,7 +66,7 @@ Traditional exam systems are manual, time-consuming, and prone to errors. This s
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 - **Language:** Java SE 11+
 - **GUI Framework:** Swing/AWT
@@ -76,7 +76,7 @@ Traditional exam systems are manual, time-consuming, and prone to errors. This s
 
 ---
 
-## 📥 How to Run
+##  How to Run
 
 ### Prerequisites
 1. **JDK 11 or higher** - [Download Java](https://www.oracle.com/java/technologies/javase-downloads.html)
