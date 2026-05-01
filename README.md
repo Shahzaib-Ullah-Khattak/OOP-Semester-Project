@@ -55,39 +55,16 @@ Traditional exam systems are manual, time-consuming, and prone to errors. This s
 
 ##  OOP Features Implemented
 
-✅ **Encapsulation** - Private fields with controlled access via getters/setters  
-✅ **Inheritance** - Base User class with Teacher/Student specialization  
-✅ **Polymorphism** - Method overriding for different user roles  
-✅ **Abstraction** - Question class abstracts question data structure  
-✅ **Collections** - Arrays and ArrayLists for dynamic data management  
-✅ **Exception Handling** - Comprehensive try-catch with user feedback  
-✅ **Database Operations** - JDBC with PreparedStatements for SQL injection prevention  
-✅ **File I/O** - Bulk question import from text
+**Encapsulation** - Private fields with controlled access via getters/setters  
+**Inheritance** - Base User class with Teacher/Student specialization  
+**Polymorphism** - Method overriding for different user roles  
+**Abstraction** - Question class abstracts question data structure  
+**Collections** - Arrays and ArrayLists for dynamic data management  
+**Exception Handling** - Comprehensive try-catch with user feedback  
+**Database Operations** - JDBC with PreparedStatements for SQL injection prevention  
+**File I/O** - Bulk question import from text
 
 ---
 
-##  Technology Stack
 
-- **Language:** Java SE 11+
-- **GUI Framework:** Swing/AWT
-- **Database:** MySQL 5.7+
-- **Database Driver:** JDBC MySQL Connector
-- **IDE:** IntelliJ IDEA / Eclipse / VS Code
 
----
-
-##  How to Run
-
-### Prerequisites
-1. **JDK 11 or higher** - [Download Java](https://www.oracle.com/java/technologies/javase-downloads.html)
-2. **MySQL 5.7+** - [Download MySQL](https://dev.mysql.com/downloads/mysql/)
-3. **MySQL Connector/J (JDBC)** - [Download Driver](https://dev.mysql.com/downloads/connector/j/)
-
-### Setup Steps
-
-**1. Database Setup**
-```bash
-mysql -u root -p
-CREATE DATABASE Quiz;
-USE Quiz;
-source database/schema.sql;
