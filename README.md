@@ -4,8 +4,8 @@
 
 | Name | Student ID | Section |
 |------|-----------|---------|
-| Shahzaib Ullah Khattak | 023-25-0169 | C |
-| Muhammad Safdar Khan | 023-25-01882 | C |
+| Shahzaib Ullah Khattak | 023-25-0182 | C |
+| Muhammad Safdar Khan | 023-25-0169 | C |
 
 ---
 
