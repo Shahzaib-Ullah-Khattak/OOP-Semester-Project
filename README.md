@@ -68,9 +68,15 @@ Traditional exam systems are manual, time-consuming, and prone to errors. This s
 ---
 
 ## Disclaimer
-**SQL** this code donot run until you created a local database with the tables give in sql file 
+**SQL:** 
+    this code donot run until you created a local database with the tables give in sql file 
 beacuse it is build for the local host and include my sql password and local host changing the
 password and the the host name to your instead of me then ot will satrt working and retrive the
 data from the daatbase otherwose it doesnot.
+
+---
+
+## Demo Video
+** LINK: **
 
 
