@@ -74,6 +74,8 @@ beacuse it is build for the local host and include my sql password and local hos
 password and the the host name to your instead of me then ot will satrt working and retrive the
 data from the daatbase otherwose it doesnot.
 
+the Database that should be created for that is present in databse folder in sql file
+
 ---
 
 ## Demo Video
