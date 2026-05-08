@@ -82,10 +82,13 @@ fasdjfasfgjai
 
 ## How to run:
 ** Compilation:**
+
 ###**Enter to the folder oop-semester-project and open the cmd their and compile the code with below **
-            javac -cp ".;mysql-connector-j-9.6.0.jar" src\ExamPortal.java
+        javac -cp ".;mysql-connector-j-9.6.0.jar" src\ExamPortal.java
+        
 ###**Run:** 
     java -cp ".;mysql-connector-j-9.6.0.jar;src" ExamPortal
+    
     ---
     
 
